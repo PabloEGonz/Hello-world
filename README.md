@@ -36,7 +36,7 @@
 
 # 📖 Hello world Project <a name="about-project"></a>
 
-> Solo Microverse project, setting up a "Hello Microverse" project.
+ Solo Microverse project, setting up a "Hello Microverse" project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,7 +45,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> HTML & CSS.
+- HTML & CSS.
 
 <details>
   <summary>Client</summary>
@@ -116,7 +116,6 @@ Open index.html using live server extention.
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 Pablo Gonzalez
 
@@ -128,8 +127,6 @@ Open index.html using live server extention.
 
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Add Header
 - [ ] Add more styling
